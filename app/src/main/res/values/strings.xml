@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeFan</string>
+    <string name="home_fan_title">Speed Controller</string>
+    <string name="seekbar_controler_name">SPEED</string>
+    <string name="fan_description">Kipas enam pisau</string>
+    <string name="light_switch">LIGHTS</string>
+</resources>
